@@ -1,3 +1,6 @@
+  Visible [ici](https://simplejul.github.io/jqColors/).
+  
+  
 # Color Pairing
 
 Dans le dossier faites un `npm install` pour récupérer les dépendances
